@@ -1,1 +1,23 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.margin-top {
+  margin-top: 15vh;
+}
+body {
+  background-color: blueviolet;
+}
+
+.card-height {
+  height: 45vh;
+}
+
+#arriba {
+  font-size: 5vh;
+}
+#medio {
+  font-size: 15vh;
+}
+
+#abajo {
+  font-size: 5vh;
+  transform: rotate(180deg);
+  transform-origin: left-top;
+}
